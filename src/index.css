@@ -1,0 +1,250 @@
+body {
+    margin: 0;
+    font-family: "Segoe UI", Arial, sans-serif;
+    color: #212529;
+    background-color: #ffffff;
+}
+
+.hero-section {
+    background: linear-gradient(135deg, #f0f5ff 0%, #ffffff 65%, #eaf8f3 100%);
+    overflow: hidden;
+}
+
+.min-vh-75 {
+    min-height: 75vh;
+}
+
+.hero-card {
+    background: #ffffff;
+    border: 1px solid #e9ecef;
+    border-radius: 24px;
+    padding: 28px;
+}
+
+.job-preview {
+    padding: 18px;
+    margin-top: 16px;
+    border: 1px solid #e9ecef;
+    border-radius: 16px;
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.job-preview:hover {
+    transform: translateY(-3px);
+    box-shadow: 0 8px 24px rgba(0, 0, 0, 0.06);
+}
+
+.company-icon {
+    width: 48px;
+    height: 48px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 14px;
+    background: #e8f0ff;
+    color: #0d6efd;
+    font-size: 22px;
+    font-weight: 700;
+}
+
+.feature-card {
+    padding: 28px;
+    border: 1px solid #e9ecef;
+    border-radius: 18px;
+    background: #ffffff;
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.feature-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 12px 30px rgba(0, 0, 0, 0.08);
+}
+
+.feature-icon {
+    font-size: 32px;
+    margin-bottom: 18px;
+}
+
+.navbar {
+    padding: 14px 20px;
+}
+
+@media (max-width: 991px) {
+    .min-vh-75 {
+        min-height: auto;
+    }
+
+    .display-3 {
+        font-size: 2.6rem;
+    }
+
+    .hero-card {
+        padding: 20px;
+    }
+}
+.about-hero {
+    background: linear-gradient(135deg, #f0f5ff, #ffffff 60%, #eaf8f3);
+}
+
+.about-label {
+    display: inline-block;
+    color: #0d6efd;
+    font-size: 0.8rem;
+    font-weight: 700;
+    letter-spacing: 2px;
+}
+
+.about-visual {
+    padding: 35px;
+    background: #ffffff;
+    border: 1px solid #e9ecef;
+    border-radius: 26px;
+}
+
+.about-visual-icon {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 90px;
+    height: 90px;
+    border-radius: 24px;
+    background: #e8f0ff;
+    font-size: 45px;
+}
+
+.about-mini-card {
+    display: flex;
+    align-items: center;
+    gap: 16px;
+    padding: 16px;
+    margin-top: 16px;
+    border: 1px solid #edf0f5;
+    border-radius: 16px;
+}
+
+.mini-icon {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 48px;
+    height: 48px;
+    flex-shrink: 0;
+    border-radius: 14px;
+    background: #f1f5f9;
+    font-size: 24px;
+}
+
+.about-description {
+    font-size: 1.1rem;
+    line-height: 1.9;
+}
+
+.about-values {
+    background: #f8faff;
+}
+
+.about-value-card {
+    padding: 30px;
+    background: #ffffff;
+    border: 1px solid #e9edf5;
+    border-radius: 20px;
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.about-value-card:hover {
+    transform: translateY(-6px);
+    box-shadow: 0 12px 28px rgba(0, 0, 0, 0.07);
+}
+
+.value-icon {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 60px;
+    height: 60px;
+    border-radius: 18px;
+    font-size: 30px;
+}
+
+.value-icon.blue {
+    background: #e8f0ff;
+}
+
+.value-icon.green {
+    background: #e4f8ed;
+}
+
+.value-icon.purple {
+    background: #f0eaff;
+}
+
+.about-step {
+    padding: 25px;
+    border-left: 3px solid #0d6efd;
+}
+
+.step-number {
+    margin-bottom: 16px;
+    color: #0d6efd;
+    font-size: 2rem;
+    font-weight: 800;
+}
+
+.about-cta {
+    color: #ffffff;
+    background: linear-gradient(135deg, #0d6efd, #1746a2);
+    border-radius: 24px;
+}
+
+.about-cta p {
+    color: #e4edff;
+}
+
+@media (max-width: 768px) {
+    .about-visual {
+        padding: 22px;
+    }
+
+    .about-hero .display-4 {
+        font-size: 2.4rem;
+    }
+
+    .about-cta {
+        padding: 32px 20px !important;
+    }
+}
+.register-card {
+    border-radius: 22px;
+    overflow: hidden;
+}
+
+.register-icon {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 68px;
+    height: 68px;
+    border-radius: 20px;
+    background: #e8f0ff;
+    font-size: 34px;
+}
+
+.register-card .form-label {
+    font-weight: 600;
+    color: #343a40;
+}
+
+.register-card .form-control {
+    min-height: 46px;
+    border-radius: 10px;
+}
+
+.register-card .form-control:focus {
+    border-color: #86b7fe;
+    box-shadow: 0 0 0 0.2rem rgba(13, 110, 253, 0.12);
+}
+
+.register-card .btn-primary {
+    border-radius: 10px;
+    font-weight: 600;
+}

@@ -1,0 +1,298 @@
+
+.application-page {
+    min-height: 100vh;
+    padding: 35px 18px 60px;
+    background: #f1f6fd;
+    color: #172554;
+}
+
+.application-container {
+    max-width: 900px;
+    margin: 0 auto;
+}
+
+.application-back {
+    display: inline-block;
+    margin-bottom: 22px;
+    color: #2563eb;
+    font-size: 14px;
+    font-weight: 700;
+    text-decoration: none;
+}
+
+.application-back:hover {
+    text-decoration: underline;
+}
+
+.application-header {
+    margin-bottom: 25px;
+    text-align: center;
+}
+
+.application-eyebrow {
+    color: #2563eb;
+    font-size: 11px;
+    font-weight: 800;
+    letter-spacing: 2px;
+}
+
+.application-header h1 {
+    margin: 10px 0;
+    color: #14284f;
+    font-size: clamp(28px, 4vw, 38px);
+    font-weight: 850;
+}
+
+.application-header p {
+    color: #64748b;
+    font-size: 14px;
+}
+
+.application-job-summary {
+    display: flex;
+    align-items: center;
+    gap: 17px;
+    margin-bottom: 22px;
+    padding: 20px;
+    border: 1px solid #dbeafe;
+    border-radius: 13px;
+    background: #fff;
+    box-shadow: 0 5px 18px rgb(30 64 175 / 5%);
+}
+
+.application-company-icon {
+    display: grid;
+    flex: 0 0 60px;
+    width: 60px;
+    height: 60px;
+    overflow: hidden;
+    place-items: center;
+    border: 1px solid #dbeafe;
+    border-radius: 11px;
+    background: #eff6ff;
+    color: #2563eb;
+    font-size: 25px;
+    font-weight: 800;
+}
+
+.application-company-icon img {
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+}
+
+.application-job-summary h2 {
+    margin: 0 0 5px;
+    color: #172554;
+    font-size: 19px;
+    font-weight: 800;
+}
+
+.application-job-summary p {
+    margin: 0 0 6px;
+    color: #475569;
+    font-size: 13px;
+}
+
+.application-job-summary > div:last-child > span {
+    color: #2563eb;
+    font-size: 12px;
+    font-weight: 600;
+}
+
+.application-form-card {
+    padding: 30px;
+    border: 1px solid #dbe6f5;
+    border-radius: 15px;
+    background: #fff;
+    box-shadow: 0 8px 28px rgb(30 64 175 / 6%);
+}
+
+.application-form-heading {
+    margin-bottom: 25px;
+    padding-bottom: 18px;
+    border-bottom: 1px solid #e5edf8;
+}
+
+.application-form-heading h2 {
+    margin: 0 0 7px;
+    color: #172554;
+    font-size: 21px;
+    font-weight: 800;
+}
+
+.application-form-heading p {
+    margin: 0;
+    color: #64748b;
+    font-size: 13px;
+}
+
+.application-fields {
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 22px 18px;
+}
+
+.application-field {
+    display: flex;
+    min-width: 0;
+    flex-direction: column;
+    gap: 8px;
+}
+
+.application-field.full-width {
+    grid-column: 1 / -1;
+}
+
+.application-field > label:not(.resume-upload-box) {
+    color: #243b60;
+    font-size: 13px;
+    font-weight: 700;
+}
+
+.application-field input:not([type="file"]),
+.application-field select {
+    width: 100%;
+    min-height: 46px;
+    padding: 11px 13px;
+    border: 1px solid #cbd8e9;
+    border-radius: 8px;
+    outline: none;
+    background: #fff;
+    color: #1e293b;
+    font-size: 14px;
+    transition: border-color 0.2s, box-shadow 0.2s;
+}
+
+.application-field input:focus,
+.application-field select:focus {
+    border-color: #3b82f6;
+    box-shadow: 0 0 0 3px rgb(37 99 235 / 12%);
+}
+
+.resume-file-input {
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    overflow: hidden;
+    clip-path: inset(50%);
+    white-space: nowrap;
+}
+
+.resume-upload-box {
+    display: flex;
+    min-height: 130px;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 9px;
+    padding: 20px;
+    border: 2px dashed #93baf5;
+    border-radius: 11px;
+    background: #f5f9ff;
+    color: #1d4ed8;
+    text-align: center;
+    cursor: pointer;
+    transition: border-color 0.25s, background 0.25s;
+}
+
+.resume-upload-box:hover {
+    border-color: #2563eb;
+    background: #eaf3ff;
+}
+
+.resume-upload-icon {
+    font-size: 30px;
+}
+
+.resume-upload-box strong {
+    max-width: 100%;
+    overflow-wrap: anywhere;
+    font-size: 14px;
+}
+
+.resume-upload-box > span:last-child {
+    color: #64748b;
+    font-size: 12px;
+}
+
+.application-error {
+    margin-bottom: 20px;
+    padding: 13px 15px;
+    border: 1px solid #fecaca;
+    border-radius: 8px;
+    background: #fef2f2;
+    color: #b91c1c;
+    font-size: 13px;
+}
+
+.application-submit-row {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 15px;
+    margin-top: 28px;
+    padding-top: 22px;
+    border-top: 1px solid #e5edf8;
+}
+
+.application-submit-row p {
+    margin: 0;
+    color: #64748b;
+    font-size: 12px;
+}
+
+.application-submit-row button {
+    padding: 13px 20px;
+    border: 1px solid #2563eb;
+    border-radius: 9px;
+    background: #2563eb;
+    color: #fff;
+    font-size: 13px;
+    font-weight: 700;
+    cursor: pointer;
+    transition: transform 0.25s, background 0.25s;
+}
+
+.application-submit-row button:hover:not(:disabled) {
+    transform: translateY(-2px);
+    background: #1d4ed8;
+}
+
+.application-submit-row button:disabled {
+    cursor: wait;
+    opacity: 0.65;
+}
+
+.application-loading {
+    padding: 80px 20px;
+    color: #2563eb;
+    text-align: center;
+}
+
+@media (max-width: 600px) {
+    .application-page {
+        padding: 24px 12px 40px;
+    }
+
+    .application-form-card {
+        padding: 20px 16px;
+    }
+
+    .application-fields {
+        grid-template-columns: 1fr;
+    }
+
+    .application-field.full-width {
+        grid-column: auto;
+    }
+
+    .application-submit-row {
+        align-items: stretch;
+        flex-direction: column;
+    }
+
+    .application-submit-row button {
+        width: 100%;
+    }
+}

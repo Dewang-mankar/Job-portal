@@ -1,0 +1,212 @@
+{
+  "jobs": [
+    {
+      "id": "1",
+      "title": "React Developer",
+      "company": "TechNova Solutions",
+      "location": "Pune",
+      "type": "Full Time",
+      "salary": "₹6 - 8 LPA",
+      "experience": "Fresher",
+      "logo": "",
+      "website": "",
+      "description": "We are looking for a React Developer to build responsive, accessible, and user-friendly web applications. You will collaborate with designers and backend developers to deliver reliable features and improve user experience.",
+      "responsibilities": [
+        "Develop reusable UI components using React.",
+        "Build responsive interfaces using HTML, CSS, and JavaScript.",
+        "Integrate REST APIs and handle application state.",
+        "Debug issues and improve application performance.",
+        "Collaborate with the development team using Git."
+      ],
+      "skills": [
+        "React",
+        "JavaScript",
+        "HTML",
+        "CSS",
+        "Git"
+      ],
+      "qualifications": [
+        "Understanding of React components, props, and state.",
+        "Knowledge of HTML, CSS, JavaScript, and REST APIs.",
+        "Ability to troubleshoot issues and learn new technologies."
+      ],
+      "benefits": [
+        "Hands-on project experience.",
+        "Mentorship from the development team.",
+        "Opportunities for professional growth."
+      ],
+      "companyDescription": "TechNova Solutions focuses on web application development and collaborative software projects."
+    },
+    {
+      "id": "2",
+      "title": "Java Developer",
+      "company": "CodeSphere Technologies",
+      "location": "Bangalore",
+      "type": "Full Time",
+      "salary": "₹7 - 10 LPA",
+      "experience": "0-1 years",
+      "logo": "",
+      "website": "",
+      "description": "Develop reliable, scalable Java applications and backend services. Work with the development team to integrate REST APIs and maintain high-quality code.",
+      "responsibilities": [
+        "Develop applications using Java.",
+        "Build REST APIs using Spring Boot.",
+        "Work with SQL databases and optimize queries.",
+        "Write reusable and maintainable code.",
+        "Debug software issues and participate in code reviews.",
+        "Collaborate with frontend developers and QA engineers."
+      ],
+      "skills": [
+        "Java",
+        "Spring Boot",
+        "SQL",
+        "REST API"
+      ],
+      "qualifications": [
+        "Knowledge of Java and OOP concepts.",
+        "Understanding of Spring Boot and REST APIs.",
+        "Knowledge of SQL and relational databases.",
+        "Familiarity with Git."
+      ],
+      "benefits": [
+        "Practical backend development experience.",
+        "Collaborative engineering environment.",
+        "Technical learning and career growth opportunities."
+      ],
+      "companyDescription": "CodeSphere Technologies focuses on software development and scalable digital solutions."
+    },
+    {
+      "id": "3",
+      "title": "Frontend Developer",
+      "company": "WebCraft",
+      "location": "Mumbai",
+      "type": "Internship",
+      "salary": "₹20,000/month",
+      "experience": "Fresher",
+      "logo": "",
+      "website": "",
+      "description": "Build attractive, responsive, and user-friendly websites while gaining practical experience with modern frontend technologies.",
+      "responsibilities": [
+        "Create responsive web pages using HTML and CSS.",
+        "Develop interactive interfaces using JavaScript and React.",
+        "Build reusable React components.",
+        "Integrate frontend applications with REST APIs.",
+        "Test layouts across different screen sizes.",
+        "Collaborate with designers and developers."
+      ],
+      "skills": [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "React",
+        "Bootstrap"
+      ],
+      "qualifications": [
+        "Understanding of HTML, CSS, and JavaScript.",
+        "Basic knowledge of React components, props, and state.",
+        "Familiarity with responsive web design.",
+        "Willingness to learn and work on projects."
+      ],
+      "benefits": [
+        "Hands-on frontend development experience.",
+        "Portfolio-building opportunities.",
+        "Exposure to modern web technologies.",
+        "Professional development and mentorship."
+      ],
+      "companyDescription": "WebCraft focuses on responsive websites and modern user interfaces."
+    },
+    {
+      "id": "4",
+      "title": "Backend Developer",
+      "company": "CloudMatrix",
+      "location": "Hyderabad",
+      "type": "Full Time",
+      "salary": "₹8 - 12 LPA",
+      "experience": "1-3 years",
+      "logo": "",
+      "website": "",
+      "description": "Build secure, scalable, and high-performance backend services. The role includes API development, database management, and application security.",
+      "responsibilities": [
+        "Develop backend services using Java and Spring Boot.",
+        "Design and implement RESTful APIs.",
+        "Manage relational databases using PostgreSQL.",
+        "Implement validation, error handling, and security practices.",
+        "Optimize application performance and database queries.",
+        "Write tests and troubleshoot issues."
+      ],
+      "skills": [
+        "Java",
+        "Spring Boot",
+        "PostgreSQL",
+        "REST API"
+      ],
+      "qualifications": [
+        "Knowledge of Java and object-oriented programming.",
+        "Experience with Spring Boot and REST APIs.",
+        "Understanding of SQL and PostgreSQL.",
+        "Knowledge of authentication and API security.",
+        "Familiarity with Git, testing, and debugging."
+      ],
+      "benefits": [
+        "Experience with scalable backend systems.",
+        "Advanced technical learning opportunities.",
+        "Collaborative development environment.",
+        "Professional growth opportunities."
+      ],
+      "companyDescription": "CloudMatrix focuses on backend systems, APIs, and scalable digital services."
+    }
+  ],
+  "applications": [
+    {
+      "jobId": "3",
+      "jobTitle": "Frontend Developer",
+      "company": "WebCraft",
+      "location": "Mumbai",
+      "email": "rahul@gmail.com",
+      "applicantName": "rahul",
+      "status": "Pending",
+      "appliedDate": "10/25/2026",
+      "id": "AjvG3PS6Cfw"
+    },
+    {
+      "jobId": "2",
+      "jobTitle": "Java Developer",
+      "company": "CodeSphere Technologies",
+      "name": "Dewang Mankar",
+      "applicantName": "Dewang Mankar",
+      "firstName": "Dewang",
+      "lastName": "Mankar",
+      "email": "mankar@gmail.com",
+      "phone": "8010810945",
+      "education": "B.Tech Computer Engineering",
+      "passoutYear": 2026,
+      "resumeName": "assign2_softskills.pdf",
+      "resumeData": "data:application/pdf;base64,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IzIwUm9tYW4sQm9sZC9FbmNvZGluZy9XaW5BbnNpRW5jb2RpbmcvRm9udERlc2NyaXB0b3IgNiAwIFIvRmlyc3RDaGFyIDMyL0xhc3RDaGFyIDExNS9XaWR0aHMgNTcgMCBSPj4NCmVuZG9iag0KNiAwIG9iag0KPDwvVHlwZS9Gb250RGVzY3JpcHRvci9Gb250TmFtZS9UaW1lcyMyME5ldyMyMFJvbWFuLEJvbGQvRmxhZ3MgMzIvSXRhbGljQW5nbGUgMC9Bc2NlbnQgODkxL0Rlc2NlbnQgLTIxNi9DYXBIZWlnaHQgNjc3L0F2Z1dpZHRoIDQyNy9NYXhXaWR0aCAyNTU4L0ZvbnRXZWlnaHQgNzAwL1hIZWlnaHQgMjUwL0xlYWRpbmcgNDIvU3RlbVYgNDIvRm9udEJCb3hbIC01NTggLTIxNiAyMDAwIDY3N10gPj4NCmVuZG9iag0KNyAwIG9iag0KPDwvVHlwZS9FeHRHU3RhdGUvQk0vTm9ybWFsL2NhIDE+Pg0KZW5kb2JqDQo4IDAgb2JqDQo8PC9UeXBlL0V4dEdTdGF0ZS9CTS9Ob3JtYWwvQ0EgMT4+DQplbmRvYmoNCjkgMCBvYmoNCjw8L1R5cGUvRm9udC9TdWJ0eXBlL1RydWVUeXBlL05hbWUvRjIvQmFzZUZvbnQvVGltZXMjMjBOZXcjMjBSb21hbi9FbmNvZGluZy9XaW5BbnNpRW5jb2RpbmcvRm9udERlc2NyaXB0b3IgMTAgMCBSL0ZpcnN0Q2hhciAzMi9MYXN0Q2hhciAxMjEvV2lkdGhzIDU4IDAgUj4+DQplbmRvYmoNCjEwIDAgb2JqDQo8PC9UeXBlL0ZvbnREZXNjcmlwdG9yL0ZvbnROYW1lL1RpbWVzIzIwTmV3IzIwUm9tYW4vRmxhZ3MgMzIvSXRhbGljQW5nbGUgMC9Bc2NlbnQgODkxL0Rlc2NlbnQgLTIxNi9DYXBIZWlnaHQgNjkzL0F2Z1dpZHRoIDQwMS9NYXhXaWR0aCAyNjE0L0ZvbnRXZWlnaHQgNDAwL1hIZWlnaHQgMjUwL0xlYWRpbmcgNDIvU3RlbVYgNDAvRm9udEJCb3hbIC01NjggLTIxNiAyMDQ2IDY5M10gPj4NCmVuZG9iag0KMTEgMCBvYmoNCjw8L1R5cGUvRm9udC9TdWJ0eXBlL1RydWVUeXBlL05hbWUvRjMvQmFzZUZvbnQvQXJpYWwvRW5jb2RpbmcvV2luQW5zaUVuY29kaW5nL0ZvbnREZXNjcmlwdG9yIDEyIDAgUi9GaXJzdENoYXIgMzIvTGFzdENoYXIgMzIvV2lkdGhzIDU5IDAgUj4+DQplbmRvYmoNCjEyIDAgb2JqDQo8PC9UeXBlL0ZvbnREZXNjcmlwdG9yL0ZvbnROYW1lL0FyaWFsL0ZsYWdzIDMyL0l0YWxpY0FuZ2xlIDAvQXNjZW50IDkwNS9EZXNjZW50IC0yMTAvQ2FwSGVpZ2h0IDcyOC9BdmdXaWR0aCA0NDEvTWF4V2lkdGggMjY2NS9Gb250V2VpZ2h0IDQwMC9YSGVpZ2h0IDI1MC9MZWFkaW5nIDMzL1N0ZW1WIDQ0L0ZvbnRCQm94WyAtNjY1IC0yMTAgMjAwMCA3MjhdID4+DQplbmRvYmoNCjEzIDAgb2JqDQo8PC9UeXBlL0ZvbnQvU3VidHlwZS9UcnVlVHlwZS9OYW1lL0Y0L0Jhc2VGb250L0FyaWFsLEJvbGQvRW5jb2RpbmcvV2luQW5zaUVuY29kaW5nL0ZvbnREZXNjcmlwdG9yIDE0IDAgUi9GaXJzdENoYXIgMzIvTGFzdENoYXIgMzIvV2lkdGhzIDYwIDAgUj4+DQplbmRvYmoNCjE0IDAgb2JqDQo8PC9UeXBlL0ZvbnREZXNjcmlwdG9yL0ZvbnROYW1lL0FyaWFsLEJvbGQvRmxhZ3MgMzIvSXRhbGljQW5nbGUgMC9Bc2NlbnQgOTA1L0Rlc2NlbnQgLTIxMC9DYXBIZWlnaHQgNzI4L0F2Z1dpZHRoIDQ3OS9NYXhXaWR0aCAyNjI4L0ZvbnRXZWlnaHQgNzAwL1hIZWlnaHQgMjUwL0xlYWRpbmcgMzMvU3RlbVYgNDcvRm9udEJCb3hbIC02MjggLTIxMCAyMDAwIDcyOF0gPj4NCmVuZG9iag0KMTUgMCBvYmoNCjw8L0F1dGhvcihBZG1pbikgL0NyZWF0b3Io/v8ATQBpAGMAcgBvAHMAbwBmAHQArgAgAFcAbwByAGQAIAAyADAAMQA2KSAvQ3JlYXRpb25EYXRlKEQ6MjAyNjA2MTAxNTEwNDErMDUnMzAnKSAvTW9kRGF0ZShEOjIwMjYwNjEwMTUxMDQxKzA1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NjINCjAwMDAwMDAwMTYgNjU1MzUgZg0KMDAwMDAwMDAxNyAwMDAwMCBuDQowMDAwMDAwMTI1IDAwMDAwIG4NCjAwMDAwMDAxODEgMDAwMDAgbg0KMDAwMDAwMDQ3OCAwMDAwMCBuDQowMDAwMDAxNzMzIDAwMDAwIG4NCjAwMDAwMDE5MTEgMDAwMDAgbg0KMDAwMDAwMjE1NCAwMDAwMCBuDQowMDAwMDAyMjA3IDAwMDAwIG4NCjAwMDAwMDIyNjAgMDAwMDAgbg0KMDAwMDAwMjQzNCAwMDAwMCBuDQowMDAwMDAyNjczIDAwMDAwIG4NCjAwMDAwMDI4MzMgMDAwMDAgbg0KMDAwMDAwMzA1OCAwMDAwMCBuDQowMDAwMDAzMjIzIDAwMDAwIG4NCjAwMDAwMDM0NTMgMDAwMDAgbg0KMDAwMDAwMDAxNyA2NTUzNSBmDQowMDAwMDAwMDE4IDY1NTM1IGYNCjAwMDAwMDAwMTkgNjU1MzUgZg0KMDAwMDAwMDAyMCA2NTUzNSBmDQowMDAwMDAwMDIxIDY1NTM1IGYNCjAwMDAwMDAwMjIgNjU1MzUgZg0KMDAwMDAwMDAyMyA2NTUzNSBmDQowMDAwMDAwMDI0IDY1NTM1IGYNCjAwMDAwMDAwMjUgNjU1MzUgZg0KMDAwMDAwMDAyNiA2NTUzNSBmDQowMDAwMDAwMDI3IDY1NTM1IGYNCjAwMDAwMDAwMjggNjU1MzUgZg0KMDAwMDAwMDAyOSA2NTUzNSBmDQowMDAwMDAwMDMwIDY1NTM1IGYNCjAwMDAwMDAwMzEgNjU1MzUgZg0KMDAwMDAwMDAzMiA2NTUzNSBmDQowMDAwMDAwMDMzIDY1NTM1IGYNCjAwMDAwMDAwMzQgNjU1MzUgZg0KMDAwMDAwMDAzNSA2NTUzNSBmDQowMDAwMDAwMDM2IDY1NTM1IGYNCjAwMDAwMDAwMzcgNjU1MzUgZg0KMDAwMDAwMDAzOCA2NTUzNSBmDQowMDAwMDAwMDM5IDY1NTM1IGYNCjAwMDAwMDAwNDAgNjU1MzUgZg0KMDAwMDAwMDA0MSA2NTUzNSBmDQowMDAwMDAwMDQyIDY1NTM1IGYNCjAwMDAwMDAwNDMgNjU1MzUgZg0KMDAwMDAwMDA0NCA2NTUzNSBmDQowMDAwMDAwMDQ1IDY1NTM1IGYNCjAwMDAwMDAwNDYgNjU1MzUgZg0KMDAwMDAwMDA0NyA2NTUzNSBmDQowMDAwMDAwMDQ4IDY1NTM1IGYNCjAwMDAwMDAwNDkgNjU1MzUgZg0KMDAwMDAwMDA1MCA2NTUzNSBmDQowMDAwMDAwMDUxIDY1NTM1IGYNCjAwMDAwMDAwNTIgNjU1MzUgZg0KMDAwMDAwMDA1MyA2NTUzNSBmDQowMDAwMDAwMDU0IDY1NTM1IGYNCjAwMDAwMDAwNTUgNjU1MzUgZg0KMDAwMDAwMDA1NiA2NTUzNSBmDQowMDAwMDAwMDAwIDY1NTM1IGYNCjAwMDAwMDQ0NzIgMDAwMDAgbg0KMDAwMDAwNDY4NyAwMDAwMCBuDQowMDAwMDA0OTcwIDAwMDAwIG4NCjAwMDAwMDQ5OTcgMDAwMDAgbg0KMDAwMDAwNTAyNCAwMDAwMCBuDQp0cmFpbGVyDQo8PC9TaXplIDYyL1Jvb3QgMSAwIFIvSW5mbyAxNSAwIFIvSURbPDdCREEzMjkyNjVCNDcxNDM5QkU4RUM5NDQ5Mzg2RTJBPjw3QkRBMzI5MjY1QjQ3MTQzOUJFOEVDOTQ0OTM4NkUyQT5dID4+DQpzdGFydHhyZWYNCjUzOTINCiUlRU9GDQp4cmVmDQowIDANCnRyYWlsZXINCjw8L1NpemUgNjIvUm9vdCAxIDAgUi9JbmZvIDE1IDAgUi9JRFs8N0JEQTMyOTI2NUI0NzE0MzlCRThFQzk0NDkzODZFMkE+PDdCREEzMjkyNjVCNDcxNDM5QkU4RUM5NDQ5Mzg2RTJBPl0gL1ByZXYgNTM5Mi9YUmVmU3RtIDUwMjQ+Pg0Kc3RhcnR4cmVmDQo2Nzg4DQolJUVPRg==",
+      "appliedAt": "2026-10-26T05:12:48.784Z",
+      "appliedDate": "10/26/2026",
+      "status": "Pending",
+      "id": "ekng4KWfitY"
+    },
+    {
+      "jobId": "1",
+      "jobTitle": "React Developer",
+      "company": "TechNova Solutions",
+      "name": "Dewang Mankar",
+      "applicantName": "Dewang Mankar",
+      "firstName": "Dewang",
+      "lastName": "Mankar",
+      "email": "mankar@gmail.com",
+      "phone": "8010810945",
+      "education": "B.Tech Computer Engineering",
+      "passoutYear": 2026,
+      "resumeName": "softskill professional.docx",
+      "resumeData": "data:application/vnd.openxmlformats-officedocument.wordprocessingml.document;base64,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",
+      "appliedAt": "2026-10-30T05:45:50.134Z",
+      "appliedDate": "10/30/2026",
+      "status": "Pending",
+      "id": "Vwdw6YDjv7A"
+    }
+  ],
+  "users": [],
+  "$schema": "./node_modules/json-server/schema.json"
+}
